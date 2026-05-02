@@ -1,1 +1,1 @@
-Initial README file
+This is Student A's Project.
